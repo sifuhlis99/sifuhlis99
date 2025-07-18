@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sifuhlis99
 - 👀 I’m interested in Programming and Muay Thai
-- 🌱 I’m currently learning lua for FiveM
+- 🌱 FiveM Scripts Developer and Server Manager
 - 💞️ I’m completely okay with people editing or expanding upon my work as long as credit is given
 - 📫 How to reach me - discord @sifuhlis
 - 😄 Pronouns: They/Them
