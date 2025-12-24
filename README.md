@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sifuhlis99
-- 👀 Lua/JS/Python/C
+- 👀 Lua/JS/Python
 - 🌱 FiveM/RedM Scripts Developer and Server Manager.
 - 💞️ I’m completely okay with people editing or expanding upon my work as long as credit is given
 - 📫 How to reach me - discord @sifuhlis
